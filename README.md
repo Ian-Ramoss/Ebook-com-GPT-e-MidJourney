@@ -16,7 +16,7 @@ Este ebook é fruto de um processo fascinante de colaboração com IA. Utilizei 
 
 ## 📖 Como Acessar
 
-Você pode acessar o ebook diretamente [aqui](link_para_o_ebook.pdf).
+Você pode acessar o ebook diretamente [aqui](https://github.com/Ian-Ramoss/Ebook-com-GPT-e-MidJourney/blob/main/Inteligencia%20Artificial%20Guia%20Pratico%20para%20Iniciantes.pdf).
 
 ## 📌 Prompts Utilizados
 
