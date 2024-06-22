@@ -1,6 +1,8 @@
-# 📚 Ebook: Explorando a IA: Da Teoria à Prática
+# 📚 Criando um Ebook com ChatGPT & MidJourney (ou será com o Gamma.app?)
 
 Bem-vindo ao repositório do Desafio de Projeto "Criando um Ebook com ChatGPT & MidJourney", do Bootcamp "Fundamentos de IA para Devs"! Este ebook foi criado como parte do Desafio de Projeto do curso Fundamentos de IA para Devs da DIO, utilizando ferramentas de Inteligência Artificial como #chatGPT e o poderoso [https://gamma.app/](https://gamma.app/) da Gamma para geração de conteúdo textual e visual.
+
+A sugestão do desafio era criar utilizando o ChatGPT e o MidJourney, mas como eu já havia feito um desse jeito em um outro desafio, pensei: "por que não inovar?"
 
 ## ℹ️ Visão Geral
 
